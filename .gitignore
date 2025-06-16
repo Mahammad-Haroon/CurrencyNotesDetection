@@ -1,0 +1,13 @@
+# Ignore virtual environment folders
+venv/
+.venvs/
+.envs/
+
+# Python bytecode files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS and log files
+.DS_Store
+*.log
